@@ -1,0 +1,4 @@
+@font-face {
+    font-family: MyFont;
+    src: url(\"file:///android_asset/font/cambay.ttf\")}
+    body {font-family: MyFont;font-size: medium;text-align: justify;}
